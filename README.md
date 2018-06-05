@@ -1,12 +1,12 @@
 # projetwebs3-bilelamraoui
 projetwebs3-bilelamraoui created by GitHub Classroom
 
-Redmean projet web
+
 
 
 étape 1
 
-clonage du repertoir du projet après avoir clonage
+cloner du repertoir du projet
 
 étape 2
 
