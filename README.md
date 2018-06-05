@@ -6,7 +6,7 @@ projetwebs3-bilelamraoui created by GitHub Classroom
 
 étape 1
 
-cloner du repertoir du projet
+cloner le repertoir du projet
 
 étape 2
 
